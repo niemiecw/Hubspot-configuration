@@ -52,7 +52,7 @@ To showcase practical CRM skills through simulation – from contact import to s
 ## 📄 Project Summary (PDF)
 
 You can find the full project summary with screenshots in this  
-[📎 PDF document](Implementation and configuration of HubSpot CRM at “CreativeFox” – simulation.pdf)
+hubspot_crm_configuration_creativefox.pdf.pdf
 
 ---
 
